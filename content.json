@@ -1,0 +1,81 @@
+[
+    {
+      "intent":"UniqueNameGoesHere",
+      "examples": [
+        "Training phrase examples go here",
+        "..."
+      ],
+      "metadata": [
+        "The response to the question goes here"
+      ]
+    },
+        {
+      "intent":"WhatIsTigerTribe",
+      "examples": [
+        "what is Tiger Tribe",
+        "tell me about Tiger Tribe",
+        "who are Tiger Tribe",
+        "what are Tiger Tribe",
+        "what is tiger tribe",
+        "who is tiger tribe",
+        "who are tiger tribe",
+        "what are tiger tribe",
+        "tell me about Tiger Tribe",
+        "explain Tiger Tribe to me",
+        "hey buddy what is tiger tribe",
+        "What is Tiger Tribe?",
+        "Can you tell me about Tiger Tribe?",
+        "What does Tiger Tribe do?",
+        "Who or what is Tiger Tribe?",
+        "Tell me more about Tiger Tribe"
+      ],
+      "metadata": [
+        "Tiger Tribe is a cross-functional & global development team, meaning that our scope is not just limited to Asia-Pacific. We work directly with users across all functions and build connections with our customers in the OpCo and live our ambition to drive customer centricity and co-create digital products that our users love "
+      ]
+    },
+    {
+      "intent":"WhenWasTigerTribebBorn",
+      "examples": [
+        "When was Tiger Tribe founded?",
+        "Can you tell me the establishment date of Tiger Tribe?",
+        "What is the inception year of Tiger Tribe?",
+        "When did Tiger Tribe start its operations?",
+        "Do you know when Tiger Tribe was established?",
+        "What is the founding date of Tiger Tribe?",
+        "When did Tiger Tribe come into existence?",
+        "Can you provide the starting year of Tiger Tribe?",
+        "I'm curious, when was Tiger Tribe created?",
+        "What is the birth year of Tiger Tribe?"
+      ],
+      "metadata": [
+        "Tiger Tribe was born in Ho Chi Minh City, Viet Nam in August 2022 the year of the Tiger and has been growing ever since. We currenty have 24 developers, testers and UX and implement 12 digital products."
+      ]
+    },
+    {
+      "intent":"WhatIsTigerTribeVision",
+      "examples": [
+        "What is Tiger Tribe's vision?",
+        "Can you tell me about Tiger Tribe's vision?",
+        "What does Tiger Tribe aim to achieve?",
+        "What is the vision statement of Tiger Tribe?",
+        "What are Tiger Tribe's goals for the future?"
+      ],
+      "metadata": [
+        "We will shape the future of Digital Product development in Heineken by building faster and smarter digital solutions which are loved by our customers. "
+      ]
+    },
+    {
+        "intent":"WhatIsTigerTribeValues",
+        "examples": [
+        "What are Tiger Tribe's values?",
+        "Can you tell me about Tiger Tribe's core values?",
+        "What guiding principles does Tiger Tribe follow?",
+        "What values does Tiger Tribe prioritize?",
+        "Tell me about the values of Tiger Tribe."
+        ],
+        "metadata": [
+          "Practice Empathy, Alles of Niets, Free our code and Just ship it are the core values of Tiger Tribe. We lives the values of Heineken and bring them into the way we build our digital products."
+        ]
+      }
+
+  ]
