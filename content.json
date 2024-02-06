@@ -30,7 +30,19 @@
         "Tell me more about Tiger Tribe"
       ],
       "metadata": [
-        "Tiger Tribe is a cross-functional & global development team, meaning that our scope is not just limited to Asia-Pacific. We work directly with users across all functions and build connections with our customers in the OpCo and live our ambition to drive customer centricity and co-create digital products that our users love "
+        {
+          "text": "Tiger Tribe is a cross-functional & global development team, meaning that our scope is not just limited to Asia-Pacific. We work directly with users across all functions and build connections with our customers in the OpCo and live our ambition to drive customer centricity and co-create digital products that our users love ",
+          "variables":{
+            "public":{
+              "pic":{
+                "component":"image",
+                "data":{
+                  "url":"https://github.com/tuuyen13/Avatar/blob/main/1280px-Heineken_Logo.svg.png"
+                }
+              }
+            }
+          }
+        }
       ]
     },
     {
