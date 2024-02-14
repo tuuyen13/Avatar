@@ -1,93 +1,342 @@
 [
     {
-      "intent":"UniqueNameGoesHere",
-      "examples": [
-        "Training phrase examples go here",
-        "..."
-      ],
-      "metadata": [
-        "The response to the question goes here"
-      ]
-    },
-        {
-      "intent":"WhatIsTigerTribe",
-      "examples": [
-        "what is Tiger Tribe",
-        "tell me about Tiger Tribe",
-        "who are Tiger Tribe",
-        "what are Tiger Tribe",
-        "what is tiger tribe",
-        "who is tiger tribe",
-        "who are tiger tribe",
-        "what are tiger tribe",
-        "tell me about Tiger Tribe",
-        "explain Tiger Tribe to me",
-        "hey buddy what is tiger tribe",
-        "What is Tiger Tribe?",
-        "Can you tell me about Tiger Tribe?",
-        "What does Tiger Tribe do?",
-        "Who or what is Tiger Tribe?",
-        "Tell me more about Tiger Tribe"
-      ],
-      "metadata": [
-        {
-          "text": "Tiger Tribe is a cross-functional & global development team, meaning that our scope is not just limited to Asia-Pacific. We work directly with users across all functions and build connections with our customers in the OpCo and live our ambition to drive customer centricity and co-create digital products that our users love ",
-          "variables":{
-            "public":{
-              "pic":{
-                "component":"image",
-                "data":{
-                  "url":"https://github.com/tuuyen13/SQL-Projects/assets/94332486/89201c80-9033-430f-b652-d6a7cc5819d4"
-                }
-              }
-            }
-          }
-        }
-      ]
-    },
-    {
-      "intent":"WhenWasTigerTribebBorn",
-      "examples": [
-        "When was Tiger Tribe founded?",
-        "Can you tell me the establishment date of Tiger Tribe?",
-        "What is the inception year of Tiger Tribe?",
-        "When did Tiger Tribe start its operations?",
-        "Do you know when Tiger Tribe was established?",
-        "What is the founding date of Tiger Tribe?",
-        "When did Tiger Tribe come into existence?",
-        "Can you provide the starting year of Tiger Tribe?",
-        "I'm curious, when was Tiger Tribe created?",
-        "What is the birth year of Tiger Tribe?"
-      ],
-      "metadata": [
-        "Tiger Tribe was born in Ho Chi Minh City, Viet Nam in August 2022 the year of the Tiger and has been growing ever since. We currenty have 24 developers, testers and UX and implement 12 digital products."
-      ]
-    },
-    {
-      "intent":"WhatIsTigerTribeVision",
-      "examples": [
-        "What is Tiger Tribe's vision?",
-        "Can you tell me about Tiger Tribe's vision?",
-        "What does Tiger Tribe aim to achieve?",
-        "What is the vision statement of Tiger Tribe?",
-        "What are Tiger Tribe's goals for the future?"
-      ],
-      "metadata": [
-        "We will shape the future of Digital Product development in Heineken by building faster and smarter digital solutions which are loved by our customers. "
-      ]
-    },
-    {
-        "intent":"WhatIsTigerTribeValues",
+        "intent": "WhatIsTigerTribe",
         "examples": [
-        "What are Tiger Tribe's values?",
-        "Can you tell me about Tiger Tribe's core values?",
-        "What guiding principles does Tiger Tribe follow?",
-        "What values does Tiger Tribe prioritize?",
-        "Tell me about the values of Tiger Tribe."
+            "tell me about Tiger Tribe",
+            "who are Tiger Tribe",
+            "what are tiger tribe",
+            "explain Tiger Tribe to me",
+            "hey buddy what is tiger tribe",
+            "What is Tiger Tribe?",
+            "Can you tell me about Tiger Tribe?",
+            "What does Tiger Tribe do?",
+            "Tell me more about Tiger Tribe"
         ],
         "metadata": [
-          "Practice Empathy, Alles of Niets, Free our code and Just ship it are the core values of Tiger Tribe. We lives the values of Heineken and bring them into the way we build our digital products."
-        ]
-      }
-
-  ]
+            {
+                "text": "Tiger Tribe #HappyStrong @ShowCards(image2) is a cross-functional & global development team, meaning that our scope is not just limited to Asia-Pacific. We work directly with users across all functions and build connections with our customers in the OpCo and live our ambition to drive customer centricity and co-create digital products that our users love #HappySwayHighEnergy  ",
+                "variables": {
+                    "public": {
+                        "image2": {
+                            "id": "image2",
+                            "component": "image",
+                            "data": {
+                                "id": "image2",
+                                "url": "https://github.com/tuuyen13/Avatar/blob/main/Logo.png?raw=true",
+                                "alt": "Tiger Tribe"
+                            }
+                        }
+                    }
+                }
+            }
+        ],
+        "ignore_post_response": false,
+        "confidence": 1
+    },
+    {
+        "intent": "WhenWasTigerTribeBorn",
+        "examples": [
+            "When was Tiger Tribe founded?",
+            "Can you tell me the establishment date of Tiger Tribe?",
+            "What is the inception year of Tiger Tribe?",
+            "When did Tiger Tribe start its operations?",
+            "Do you know when Tiger Tribe was established?",
+            "What is the founding date of Tiger Tribe?",
+            "When did Tiger Tribe come into existence?",
+            "Can you provide the starting year of Tiger Tribe?",
+            "I'm curious, when was Tiger Tribe created?",
+            "What is the birth year of Tiger Tribe?"
+        ],
+        "metadata": [
+            {
+                "text": "Tiger Tribe was born in Ho Chi Minh City, Viet Nam in August 2022 the year of the Tiger and has been growing ever since #PuncSimle. We currenty have 24 developers, testers and UX and implement 12 digital products. #ThumbsUpBothHands ",
+                "variables": {
+                    "public": {}
+                }
+            }
+        ],
+        "ignore_post_response": false,
+        "confidence": 1
+    },
+    {
+        "intent": "WhatIsTigerTribeVision",
+        "examples": [
+            "What is Tiger Tribe's vision?",
+            "Can you tell me about Tiger Tribe's vision?",
+            "What does Tiger Tribe aim to achieve?",
+            "What is the vision statement of Tiger Tribe?",
+            "What are Tiger Tribe's goals for the future?",
+            "what is tiger tribe vision"
+        ],
+        "metadata": [
+            {
+                "text": "We will shape the future of Digital Product development in Heineken by building faster and smarter digital solutions which are loved by our customers. We will shape the future of Digital Product development in Heineken by building faster and smarter digital solutions which are loved by our customers. #Enthusiastic ",
+                "variables": {
+                    "public": {}
+                }
+            }
+        ],
+        "ignore_post_response": false,
+        "confidence": 1
+    },
+    {
+        "intent": "WhatIsTigerTribeValues",
+        "examples": [
+            "What are Tiger Tribe's values?",
+            "Can you tell me about Tiger Tribe's core values?",
+            "What guiding principles does Tiger Tribe follow?",
+            "What values does Tiger Tribe prioritize?",
+            "Tell me about the values of Tiger Tribe.",
+            "What are Tiger Tribe values?"
+        ],
+        "metadata": [
+            {
+                "text": "Practice Empathy, Alles of Niets, Free our code and Just ship it are the core values of Tiger Tribe. We lives the values of Heineken and bring them into the way we build our digital products.  #CircleContinuing #HappyModerate ",
+                "variables": {
+                    "public": {}
+                }
+            }
+        ],
+        "ignore_post_response": false,
+        "confidence": 1
+    },
+    {
+        "intent": "TigerTribeProduct",
+        "examples": [
+            "What digital products does Tiger Tribe offer?",
+            "Can you tell me more about products offered by Tiger Tribe",
+            "I'm interested in Tiger Tribe's products. What's available?",
+            "Could you give me an overview of Tiger Tribe's digital products range?",
+            "can you tell me about tiger tribe's product",
+            "can you tell me about tiger tribe's products",
+            "can you tell me about tiger tribe's digital product",
+            "how about your products"
+        ],
+        "metadata": [
+            {
+                "text": "#HappyModerate We #CircleContinuing scale our Digital Products outside of HEINEKEN, earning direct revenue and truly becoming a technology company.  @ShowCards(image1) We built products for our employees, distributors, customers and consumers. In 2024, we have #PuncSmileLong total 10 products and exist across 4 regions, with Hustle as the global employee super-app @ShowCards(options1)",
+                "variables": {
+                    "public": {
+                        "options1": {
+                            "id": "options1",
+                            "component": "options",
+                            "data": {
+                                "0": {
+                                    "label": "FOR OUR EMPLOYEES",
+                                    "value": "Tell me about products serving employees"
+                                },
+                                "1": {
+                                    "label": "FOR OUR DISTRIBUTORS",
+                                    "value": "Tell me about products serving distributors"
+                                },
+                                "2": {
+                                    "value": "Tell me about products serving customers",
+                                    "label": "FOR OUR CUSTOMERS"
+                                },
+                                "options": [
+                                    {
+                                        "label": "FOR OUR EMPLOYEES",
+                                        "value": "Tell me about products serving employees"
+                                    },
+                                    {
+                                        "label": "FOR OUR DISTRIBUTORS",
+                                        "value": "Tell me about products serving distributors"
+                                    },
+                                    {
+                                        "value": "Tell me about products serving customers",
+                                        "label": "FOR OUR CUSTOMERS"
+                                    },
+                                    {
+                                        "value": "Tell me about products serving consumers",
+                                        "label": "FOR OUR CONSUMERS"
+                                    }
+                                ]
+                            }
+                        },
+                        "image1": {
+                            "id": "image1",
+                            "component": "image",
+                            "data": {
+                                "id": "image1",
+                                "url": "https://github.com/tuuyen13/Avatar/blob/main/Products.png?raw=true",
+                                "alt": "Our products"
+                            }
+                        }
+                    }
+                }
+            }
+        ],
+        "ignore_post_response": false,
+        "confidence": 1
+    },
+    {
+        "intent": "FOR OUR EMPLOYEES",
+        "examples": [
+            "Tell me about products serving employees",
+            "Can you provide more detailed information about products that serve employees"
+        ],
+        "metadata": [
+            {
+                "text": "We have 3 products that built for our employees @ShowCards(options1)",
+                "variables": {
+                    "public": {
+                        "options1": {
+                            "id": "options1",
+                            "component": "options",
+                            "data": {
+                                "0": {
+                                    "label": "1-Click Approval ",
+                                    "value": "Tell me more about 1-Click Approval "
+                                },
+                                "1": {
+                                    "value": "Tell me more about UCA - Trade Activation",
+                                    "label": "UCA - Trade Activation"
+                                },
+                                "2": {
+                                    "value": "Tell me more about Hoppah - 1-Click Approval ",
+                                    "label": "Hoppah - 1-Click Approval "
+                                },
+                                "3": {
+                                    "value": "Tell me more about Hustle - Employee Engagement",
+                                    "label": "Hustle - Employee Engagement"
+                                },
+                                "options": [
+                                    {
+                                        "value": "Tell me more about Hoppah - 1-Click Approval ",
+                                        "label": "Hoppah - 1-Click Approval "
+                                    },
+                                    {
+                                        "value": "Tell me more about Hustle - Employee Engagement",
+                                        "label": "Hustle - Employee Engagement"
+                                    },
+                                    {
+                                        "value": "Tell me more about UCA - Trade Activation",
+                                        "label": "UCA - Trade Activation"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        ],
+        "ignore_post_response": false,
+        "confidence": 1
+    },
+    {
+        "intent": "FOR OUR DISTRIBUTORS",
+        "examples": [
+            "Tell me about products serving distributors",
+            "Can you provide more detailed information about products that serve distributors"
+        ],
+        "metadata": [
+            {
+                "text": "For distributors, there are 2 products.  @ShowCards(options1)",
+                "variables": {
+                    "public": {
+                        "options1": {
+                            "id": "options1",
+                            "component": "options",
+                            "data": {
+                                "id": "options1",
+                                "options": [
+                                    {
+                                        "label": "DSR app",
+                                        "value": "Tell me more about DSR app"
+                                    },
+                                    {
+                                        "label": "Driver app",
+                                        "value": "Tell me more about Driver app"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        ],
+        "ignore_post_response": false,
+        "confidence": 1
+    },
+    {
+        "intent": "FOR OUR CUSTOMERS",
+        "examples": [
+            "Tell me about products serving customers",
+            "Can you provide more detailed information about products that serve customer"
+        ],
+        "metadata": [
+            {
+                "text": "UMENU is a product born from the epidemic bringing a perfect solution seamless experience for   @ShowCards(image1)",
+                "variables": {
+                    "public": {
+                        "image1": {
+                            "id": "image1",
+                            "component": "image",
+                            "data": {
+                                "id": "image1",
+                                "url": "https://github.com/tuuyen13/Avatar/blob/main/Umenu.png?raw=true",
+                                "alt": "Umenu"
+                            }
+                        }
+                    }
+                }
+            }
+        ],
+        "ignore_post_response": false,
+        "confidence": 1
+    },
+    {
+        "intent": "FOR OUR CONSUMERS",
+        "examples": [
+            "Tell me about products serving consumers",
+            "Can you provide more detailed information about products that serve consumers"
+        ],
+        "metadata": [
+            {
+                "text": "With the purpose to meet consumers's needs, we designed 4 products with consumner-centric @ShowCards(options1)",
+                "variables": {
+                    "public": {
+                        "options1": {
+                            "id": "options1",
+                            "component": "options",
+                            "data": {
+                                "0": {
+                                    "label": "Drinkies - B2C eCommerce",
+                                    "value": "Tell me more about Drinkies - B2C eCommerce"
+                                },
+                                "1": {
+                                    "label": "eKoin - B2C Loyalty",
+                                    "value": "Tell me more about eKoin - B2C Loyalty"
+                                },
+                                "2": {
+                                    "value": "Tell me more about CMS - Campaign Microsite",
+                                    "label": "CMS - Campaign Microsite"
+                                },
+                                "options": [
+                                    {
+                                        "label": "Drinkies - B2C eCommerce",
+                                        "value": "Tell me more about Drinkies - B2C eCommerce"
+                                    },
+                                    {
+                                        "label": "eKoin - B2C Loyalty",
+                                        "value": "Tell me more about eKoin - B2C Loyalty"
+                                    },
+                                    {
+                                        "value": "Tell me more about CMS - Campaign Microsite",
+                                        "label": "CMS - Campaign Microsite"
+                                    },
+                                    {
+                                        "value": "Tell me more about CLNK - Consumer Engagement",
+                                        "label": "CLNK - Consumer Engagement"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        ],
+        "ignore_post_response": false,
+        "confidence": 1
+    }
+]
