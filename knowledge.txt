@@ -1,8 +1,57 @@
-What is Tiger Tribe? Tiger Tribe #HappyStrong is a cross-functional & global development team, meaning that our scope is not just limited to Asia-Pacific. We work directly with users across all functions and build connections with our customers in the OpCo and live our ambition to drive customer centricity and co-create digital products that our users love #HappySwayHighEnergy /n
+What is Tiger Tribe? 
+Tiger Tribe Image: https://github.com/tuuyen13/Avatar/blob/main/Logo.png?raw=true
+Tiger Tribe is a cross-functional & global development team of Heineken, meaning that our scope is not just limited to Asia-Pacific. We work directly with users across all functions and build connections with our customers in the OpCo and live our ambition to drive customer centricity and co-create digital products that our users love. 
 
-What is the founding date of Tiger Tribe? Tiger Tribe was born in Ho Chi Minh City, Viet Nam in August 2022 the year of the Tiger and has been growing ever since #PuncSimle. We currently have 24 developers, testers and UX and implement 12 digital products. #ThumbsUpBothHands /n
+What is the founding date of Tiger Tribe? Tiger Tribe was born in Ho Chi Minh City, Viet Nam in August 2022 the year of the Tiger and has been growing ever since. We currently have 24 developers, testers and UX and implement 10 digital products.  
 
-What is Tiger Tribe's vision? We will shape the future of Digital Product development in Heineken by building faster and smarter digital solutions that are loved by our customers. We will shape the future of Digital Product development in Heineken by building faster and smarter digital solutions that are loved by our customers. #Enthusiastic /n
+What is Tiger Tribe's vision? We will shape the future of Digital Product development in Heineken by building faster and smarter digital solutions which are loved by our customers. 
 
-What are Tiger Tribe's values? Practice Empathy, Alles of Niets, Free our code and Just ship it are the core values of Tiger Tribe. We live the values of Heineken and bring them into the way we build our digital products.  #CircleContinuing #HappyModerate 
+What are Tiger Tribe's values? Practice Empathy, Alles of Niets, Free our code and Just ship it are the core values of Tiger Tribe. We lives the values of Heineken and bring them into the way we build our digital products. 
 
+Can you tell me about tiger tribe's product? We scale our Digital Products outside of HEINEKEN, earning direct revenue and truly becoming a technology company.  We built products for our employees, distributors, customers and consumers. In 2024, we have total 10 products and exist across 4 regions. Say one below if you want me to provide further detailed information about those products. 
+
+Can you provide more detailed information about products that serve employees? We have 3 products that built for our employees including Hoppah - 1-Click Approval, Hustle - Employee Engagement, UCA - Trade Activation. Say one below if you want me to provide further detailed information about that products
+
+Please tell me more about the products aimed at serving distributors? For distributors, there are 2 products, including DSR app and Driver app. Say one below if you want me to provide further detailed information about that products
+
+What can you tell me about the products specifically created for customers? UMENU is a product born from the epidemic bringing a perfect solution seamless experience for our customers in both On-Trade and Off-Trade channels.
+UMENU image: https://github.com/tuuyen13/Avatar/blob/main/Umenu.png?raw=true
+
+Please tell me more about the products aimed at serving our consumers? With the purpose to meet consumers' needs, we designed 4 products #Energetic with consumer-centric, including Drinkies - B2C eCommerce, eKoin - B2C Loyalty, CMS - Campaign Microsite, CLNK - Consumer Engagement. Say one if you want me to provide further detailed information about that products.
+
+Give me more details about Hoppah? Hoppah is a perfect solution for faster and easier approval on the go 
+Hoppah image: https://github.com/tuuyen13/Avatar/blob/main/Hoppah.png?raw=true
+
+What can you tell me about Hustle? Hustle is the global employee super-app and ALL IN ALL solution for employee engagement with highlighted features for engaging employee such as Give a kudo, Events, Own it, etc. Currently, Hustle has 5 Opcos launched officially and attracts more than 500 active users. 
+Hustle image: https://github.com/tuuyen13/Avatar/blob/main/Hustle.png?raw=true
+
+Describe UCA to me? UCA is an ALL-IN-ONE solution for a centralized platform for cost efficiency and real-time management in trade activation. UCA promises to create incredible impacts on business operations 
+UCA image: https://github.com/tuuyen13/Avatar/blob/main/UCA.png?raw=true
+
+Provide futher information on DSR? DSR is a perfect solution to reallocate resource and optimize the process for Sales Representatives management. DSR is ambitious to help expand distribution coverage and promises to create further impressive impacts on business operation. The app has officially launched in 3 countries and 9 distributors 
+DSR Image: https://github.com/tuuyen13/Avatar/blob/main/DSR.png?raw=true
+
+Explain Driver to me further? Driver is the right solution to track real-time order statuses and optimize business operations between outlets and distributors 
+Driver image: https://github.com/tuuyen13/Avatar/blob/main/Driver.png?raw=true 
+
+Can you provide additional information about Drinkies? Drinkies is a perfect solution for eB2B2C strategy with 1:1 customer – consumer connections. It helps enhance strategic partnerships and consumer experience to drive life-time value.  
+Drinkies image: https://github.com/tuuyen13/Avatar/blob/main/Drinkies.png?raw=true
+
+I'd like to learn more about eKoin? eKoin provides a perfect solution for ALWAYS-ON ENGAGEMENT platform that transforms consumer promotion experience and improve budget efficiency. eKoin promises to not only transform consumer experience, but also translate it into business impacts. 
+eKoin image: https://github.com/tuuyen13/Avatar/blob/main/eKoin.png?raw=true
+
+Tell me more about CLNK - Consumer Engagement? Recognizing a large cluster of pain-points in the planning phase in the on-trade consumer journey, CLNK appears to be a perfect solution for enjoying the night out rather than planning.
+CLINK image: https://github.com/tuuyen13/Avatar/blob/main/Clnk.png?raw=true
+
+How can I contact the development team?  You can contact Mr Hoa - Technical team lead via phone or email below 
+1. Email: tranminh.hoa@heineken.com 2. Phone: 0909905714
+
+How can I contact the data team?  You can contact Mr Bao - Data Engineer via phone or email below
+1. Email: hoquoc.bao@heineken.com 2. Phone: 0916163526
+
+Contact the UI UX team? You can contact Mr Cuong - UI/UX lead via phone or email below 
+1. Email: daotrong.cuong@heineken.com 2. Phone: 0941842968
+
+Provide contact information of growth team? You can contact  Mr Trung - Growth manager via phone or email below 1. Email: doquoc.trung@heineken.com 2. Phone: 0947054293
+
+You can visit our website at: https://tigertribe.love/
